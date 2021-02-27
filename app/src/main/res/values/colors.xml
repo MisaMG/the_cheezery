@@ -9,4 +9,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="last_pink">#ef029d</color>
     <color name="accent_pink">#fe2bd0</color>
+    <color name="purple_bold">#9E2E81</color>
+    <color name="Dark_Gray">#262525</color>
+    <color name="Cuqui_Pink">#B60089</color>
 </resources>
