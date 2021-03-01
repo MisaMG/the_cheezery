@@ -28,6 +28,7 @@ class ProductosActivity : AppCompatActivity() {
         var adaptador: AdaptadorProductos = AdaptadorProductos(this, coldDrinks)
         listviewColdDrinks.adapter = adaptador
 
+
     }
 
     fun agregarProducto(){
